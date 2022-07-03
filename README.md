@@ -17,15 +17,16 @@ One technical analysis deliverable and a written report:
 ### Deliverable 1: Determine the Summary Statistics for June
 The webpage has been updated to include an image in the jumbotron and an article displays the purpose of the website and the data table. 
 
-<webpage1>
+![website1](https://user-images.githubusercontent.com/87085239/177025049-b1505423-d34f-4b63-9f3b-8c909bbd065a.png)
+
 
 To assist the user with navigating the data in the UFO sighting table, dynamic filters have been setup for specfic table columns in the UFO sighting data table. Using "d3.selectAll("input").on("change", updateFilters)", functionality has been setup that listens for each time a filter is updated and will fitler the table with the new results. 
 
-<webpage 2>
+![website2](https://user-images.githubusercontent.com/87085239/177025058-159bb9bc-2218-4258-9f0a-7f7d4eef8f2d.png)
  
 As the user enters in filters, the table automatically filters the data accordingly.
 
-<webpage 3>
+![filter](https://user-images.githubusercontent.com/87085239/177025063-b4d4dab1-d901-4093-9e2d-b751e97abef2.png)
 
 ## Summary
 
