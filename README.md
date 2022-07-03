@@ -28,6 +28,11 @@ As the user enters in filters, the table automatically filters the data accordin
 
 ![filter](https://user-images.githubusercontent.com/87085239/177025063-b4d4dab1-d901-4093-9e2d-b751e97abef2.png)
 
+You can see the fitlering taking place in the console.
+
+![filter2](https://user-images.githubusercontent.com/87085239/177025248-4b17d3c2-aa0f-4965-906b-6e75467d9ee6.png)
+
+
 ## Summary
 
 The drawback with the design is not knowing the range of data that the UFO sighting table holds. It's difficult to know how far back the data goes and how current it is. 
